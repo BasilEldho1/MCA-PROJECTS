@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "node",
+      "project": "package.json",
+      "name": "Run 3D House Designer (Client + Server)",
+      "program": "dev-runner.js",
+      "currentDir": "${workspaceRoot}"
+    },
+    {
+      "type": "default",
+      "project": "start.bat",
+      "name": "Run start.bat"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "▶ Run Full App (Client + Server)",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/dev-runner.js",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "restart": true
+    },
+    {
+      "name": "Debug Server (Port 5000)",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/server/src/server.js",
+      "cwd": "${workspaceFolder}/server",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Open Client in Browser (Port 5173)",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:5173",
+      "webRoot": "${workspaceFolder}/3d-house-designer"
+    }
+  ]
+}

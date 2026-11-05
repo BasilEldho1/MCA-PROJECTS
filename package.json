@@ -1,0 +1,17 @@
+{
+  "name": "3d-house-designer-root",
+  "private": true,
+  "scripts": {
+    "dev:info": "echo Server running at http://localhost:3000 && echo Client running at http://localhost:5173",
+    "dev": "node dev-runner.js",
+    "dev:client": "npm --prefix ./3d-house-designer run dev",
+    "dev:server": "npm --prefix ./server run dev",
+    "server": "node server/src/server.js",
+    "build": "npm --prefix 3d-house-designer run build",
+    "start": "node server/src/server.js",
+    "preview": "npm --prefix 3d-house-designer run preview"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.5"
+  }
+}

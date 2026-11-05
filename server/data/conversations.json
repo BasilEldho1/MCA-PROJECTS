@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "6ad86155fbfdef837c7e385a",
+    "participants": [
+      "6ad82d4af55f78eaabc71804",
+      "6ac67000b9105ac43b31f87d"
+    ],
+    "projectId": null,
+    "lastMessage": "What is the estimated construction cost per sq.ft?",
+    "lastMessageAt": "2026-10-21T06:54:43.024Z",
+    "createdAt": "2026-10-21T06:53:09.996Z",
+    "updatedAt": "2026-10-21T06:53:09.996Z"
+  },
+  {
+    "_id": "6ad861a6fbfdef837c7e3860",
+    "participants": [
+      "6ad82d4af55f78eaabc71804",
+      "6ad82cb4f55f78eaabc717fe"
+    ],
+    "projectId": null,
+    "lastMessage": "What is the estimated construction cost per sq.ft?",
+    "lastMessageAt": "2026-10-21T06:55:40.302Z",
+    "createdAt": "2026-10-21T06:54:30.213Z",
+    "updatedAt": "2026-10-21T06:54:30.213Z"
+  },
+  {
+    "_id": "6ad8dfaab496501ed9d4ca40",
+    "participants": [
+      "65e011111111111111111101",
+      "65e011111111111111111103"
+    ],
+    "projectId": null,
+    "lastMessage": "Paid consultation session started (30 mins) via Card •••• 4242",
+    "lastMessageAt": "2026-10-21T15:52:10.290Z",
+    "createdAt": "2026-10-21T15:52:10.290Z",
+    "updatedAt": "2026-10-21T15:52:10.290Z"
+  },
+  {
+    "_id": "6ad9778c3bcb547b6f257be1",
+    "participants": [
+      "6ac0b3e5525698749e86bcd5",
+      "65e011111111111111111104"
+    ],
+    "projectId": null,
+    "lastMessage": "hii",
+    "lastMessageAt": "2026-10-22T02:40:29.878Z",
+    "createdAt": "2026-10-22T02:40:12.663Z",
+    "updatedAt": "2026-10-22T02:40:12.663Z"
+  },
+  {
+    "_id": "6ad986c3fa126d7a8cf1a154",
+    "participants": [
+      "6ad98668fa126d7a8cf1a152",
+      "6ad82cb4f55f78eaabc717fe"
+    ],
+    "projectId": null,
+    "lastMessage": "hai",
+    "lastMessageAt": "2026-10-22T03:45:15.928Z",
+    "createdAt": "2026-10-22T03:45:07.174Z",
+    "updatedAt": "2026-10-22T03:45:07.174Z"
+  },
+  {
+    "_id": "6ad987dffa126d7a8cf1a160",
+    "participants": [
+      "6ad98668fa126d7a8cf1a152",
+      "6ad9873cfa126d7a8cf1a159"
+    ],
+    "projectId": null,
+    "lastMessage": "Floor Plan: Contemporary Atrium Duplex House",
+    "lastMessageAt": "2026-10-22T06:41:08.653Z",
+    "createdAt": "2026-10-22T03:49:51.218Z",
+    "updatedAt": "2026-10-22T03:49:51.218Z"
+  },
+  {
+    "_id": "6ad9a2d9a610ebded6830c79",
+    "participants": [
+      "6ad9986f81a60744e40e7270",
+      "6ad82cb4f55f78eaabc717fe"
+    ],
+    "projectId": null,
+    "lastMessage": "Floor Plan: Modern Country Farmhouse with Wraparound Porch",
+    "lastMessageAt": "2026-10-22T05:45:11.575Z",
+    "createdAt": "2026-10-22T05:44:57.234Z",
+    "updatedAt": "2026-10-22T05:44:57.234Z"
+  },
+  {
+    "_id": "6ad9b041a610ebded6830c88",
+    "participants": [
+      "6ad98668fa126d7a8cf1a152",
+      "6ad9986f81a60744e40e7270"
+    ],
+    "projectId": "proj_1792650576459",
+    "lastMessage": "Chat request accepted. Consultation started.",
+    "lastMessageAt": "2026-10-22T06:42:09.003Z",
+    "createdAt": "2026-10-22T06:42:09.003Z",
+    "updatedAt": "2026-10-22T06:42:09.003Z"
+  },
+  {
+    "_id": "6ad9b5f0a610ebded6830c8d",
+    "participants": [
+      "65e011111111111111111100",
+      "6ad3274bd0552233f1849b04"
+    ],
+    "projectId": null,
+    "lastMessage": "jjjkjk",
+    "lastMessageAt": "2026-10-22T07:06:41.737Z",
+    "createdAt": "2026-10-22T07:06:24.580Z",
+    "updatedAt": "2026-10-22T07:06:24.580Z"
+  }
+]

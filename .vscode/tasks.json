@@ -1,0 +1,48 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "npm: dev (Full Stack)",
+      "type": "shell",
+      "command": "npm run dev",
+      "windows": {
+        "command": "node dev-runner.js"
+      },
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "isBackground": true,
+      "problemMatcher": {
+        "owner": "custom",
+        "pattern": {
+          "regexp": "^$"
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "🏠 3D House Designer",
+          "endsPattern": "ready in"
+        }
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "npm: dev:client",
+      "type": "shell",
+      "command": "npm --prefix ./3d-house-designer run dev",
+      "problemMatcher": []
+    },
+    {
+      "label": "npm: dev:server",
+      "type": "shell",
+      "command": "npm --prefix ./server run dev",
+      "problemMatcher": []
+    }
+  ]
+}

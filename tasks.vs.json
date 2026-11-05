@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "npm run dev",
+      "appliesTo": "package.json",
+      "type": "launch",
+      "command": "node",
+      "args": ["dev-runner.js"]
+    }
+  ]
+}
